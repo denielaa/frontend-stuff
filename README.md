@@ -9,6 +9,7 @@ Collections of Frontend tips and trick including CSS, Javascript
 ### Javascript
 0. [Classes Javascript](https://medium.com/@nikhilyeole/classless-javascript-composition-over-inheritance-6b27c35893b1#.q3b1xutxe)
 0. [One Click To Be Pro](https://github.com/denielaa/One-Click-to-Be-Pro)
+1. [Mastering Javascript Course](https://github.com/johnpapa/MasteringJavaScriptCourseCode)
 
 
 ### HTML
