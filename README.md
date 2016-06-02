@@ -8,3 +8,7 @@ Collections of Frontend tips and trick including CSS, Javascript
 
 ### Javascript
 0. [Classes Javascript](https://medium.com/@nikhilyeole/classless-javascript-composition-over-inheritance-6b27c35893b1#.q3b1xutxe)
+
+
+### HTML
+0. [Choosing the right Doctype](https://www.w3.org/wiki/Choosing_the_right_doctype_for_your_HTML_documents)
