@@ -11,6 +11,7 @@ Collections of Frontend tips and trick including CSS, Javascript
 1. [One Click To Be Pro](https://github.com/denielaa/One-Click-to-Be-Pro)
 2. [Mastering Javascript Course](https://github.com/johnpapa/MasteringJavaScriptCourseCode)
 3. [Design and build your own javascript library](https://www.sitepoint.com/design-and-build-your-own-javascript-library/?utm_source=javascriptweekly&utm_medium=email)
+4. [3 Different kinds of prototypal inheritance es6 edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.dhz1ivd25)
 
 
 ### HTML
