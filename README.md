@@ -3,7 +3,7 @@ Collections of Frontend tips and trick including CSS, Javascript for my self to 
 
 ### CSS
 0. [You Dont Need Javascript For That](https://robots.thoughtbot.com/you-don-t-need-javascript-for-that)
-0. [Vanilla LIst](http://www.vanillalist.com/)
+0. [CSS Cascading](https://www.sitepoint.com/web-foundations/cascade/)
 
 
 ### Javascript
@@ -13,6 +13,7 @@ Collections of Frontend tips and trick including CSS, Javascript for my self to 
 3. [Design and build your own javascript library](https://www.sitepoint.com/design-and-build-your-own-javascript-library/?utm_source=javascriptweekly&utm_medium=email)
 4. [3 Different kinds of prototypal inheritance es6 edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.dhz1ivd25)
 5. [Async and Await](https://zeit.co/blog/async-and-await?utm_source=javascriptweekly&utm_medium=email)
+6. [Vanilla List](http://www.vanillalist.com/)
 
 
 ### HTML
