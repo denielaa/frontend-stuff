@@ -15,6 +15,7 @@ Collections of Frontend tips and trick including CSS, Javascript and HTML for my
 4. [3 Different kinds of prototypal inheritance es6 edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.dhz1ivd25)
 5. [Async and Await](https://zeit.co/blog/async-and-await?utm_source=javascriptweekly&utm_medium=email)
 6. [Vanilla List](http://www.vanillalist.com/)
+7. [Flow VS Typescript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/)
 
 
 ### HTML
