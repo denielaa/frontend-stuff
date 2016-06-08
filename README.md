@@ -16,6 +16,7 @@ Collections of Frontend tips and trick including CSS, Javascript and HTML for my
 5. [Async and Await](https://zeit.co/blog/async-and-await?utm_source=javascriptweekly&utm_medium=email)
 6. [Vanilla List](http://www.vanillalist.com/)
 7. [Flow VS Typescript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/)
+8. [I Was Wrong About Typescript](https://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/)
 
 
 ### HTML
