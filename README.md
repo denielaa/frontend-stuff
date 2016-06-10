@@ -21,3 +21,9 @@ Collections of Frontend tips and trick including CSS, Javascript and HTML for my
 
 ### HTML
 0. [Choosing the right Doctype](https://www.w3.org/wiki/Choosing_the_right_doctype_for_your_HTML_documents)
+1. [Progressive Web Apps](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/)
+
+
+## Progressive Web Apps
+The short explanation: a web application that has a responsive layout, works offline and can be can be installed on the home screen of a device. And by "installed" I mean: a shortcut to the web app is added to the home screen. When the user taps on the shortcut, the web app will be loaded in a browser in full screen mode.
+(http://gonehybrid.com/are-progressive-web-apps-the-future-of-mobile-apps/)
