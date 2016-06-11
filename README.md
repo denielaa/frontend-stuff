@@ -19,6 +19,7 @@ Collections of Frontend tips and trick including CSS, Javascript and HTML for my
 8. [I Was Wrong About Typescript](https://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/)
 9. [Object Oriented in AngularJS](http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
 10. [Angular2 Upgrading from Angular1](https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5?utm_campaign=blog_post_angular_2_upgrading_from_1_5)
+11. [12 Usefull hacks for Javascript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
 
 
 ### HTML
