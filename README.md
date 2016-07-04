@@ -22,6 +22,7 @@ Collections of Frontend tips and trick including CSS, Javascript and HTML for my
 11. [12 Usefull hacks for Javascript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
 12. [Javascript Advance](http://htmldog.com/guides/javascript/advanced/)
 13. [5 Javascript Interview Question](https://www.sitepoint.com/5-javascript-interview-exercises/)
+14. [Functional Javascript](https://asep.co/introduction-to-functional-programming-in-javascript-part-1/?utm_source=fb&utm_medium=direct-share&utm_campaign=fp-in-javascript)
 
 
 ### HTML
